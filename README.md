@@ -4,6 +4,14 @@ A simple sticky navigation bar project built with **HTML**, **CSS**, and **JavaS
 
 ---
 
+## Feature
+
+Dynamic Navbar Color Change on Scroll  
+The navigation bar changes its background color based on the scroll position.  
+When the page is at the top, the navbar appears **white**.  
+As the user scrolls down, the navbar smoothly transitions to **black**, improving visibility and user experience.
+
+---
 ## Technologies Used
 
 - **HTML5**
